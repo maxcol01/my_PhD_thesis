@@ -1,4 +1,4 @@
-# PhD Thesis — Structural Optimization for Fatigue Resistance
+# PhD Thesis — Topology Optimization under static and fatigue failure constraints
 
 This repository contains my PhD thesis completed at the University of Liège between 2014 and 2018.
 
